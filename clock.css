@@ -1,0 +1,21 @@
+/* styles.css */
+.clock {
+    font-family: Arial, sans-serif;
+    font-size: 12rem;
+    display:flex;
+    align-items: center;
+    width:100vw;
+    height:100vh;
+    justify-content: center;
+}
+
+.digit {
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+}
+
+.separator {
+    padding: 0.5rem;
+}
